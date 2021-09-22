@@ -1,0 +1,9 @@
+.spinner{
+  width: 100%;
+  height:3rem;
+  display:block;
+  background: url('https://cdn.dribbble.com/users/1788187/screenshots/5095383/loader_main.gif')no-repeat center ;
+  background-size: 95%;
+  margin: auto ;
+  margin-bottom: 5vh;
+}
